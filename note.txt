@@ -1,0 +1,2 @@
+web app=https://script.google.com/macros/s/AKfycbzT5JAGrSRg4pLZe0pkXcXD9fEoingVB4aBKLNeI5mCLvQibYHCjDOAH97iZOmyn9a_/exec
+deploy id:"AKfycbzT5JAGrSRg4pLZe0pkXcXD9fEoingVB4aBKLNeI5mCLvQibYHCjDOAH97iZOmyn9a_"
